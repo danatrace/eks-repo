@@ -1,0 +1,15 @@
+{
+    "eventType": "CUSTOM_INFO",
+    "title": "aws step functions completed xxx",
+    "timeout": 30,
+    "properties": {
+    "Info": "aws step functions workflow has completed",
+    "StandardOutputContent": "yyy"
+    "CommandId": "ccc",
+    "ExecutionElapsedTime":"ettt",
+    "ExecutionEndDateTime":"endttt",
+    "ExecutionStartDateTime":"startttt",
+    "ResponseCode":"resccc",
+    "Status":"statuscccc"    
+    }
+}
